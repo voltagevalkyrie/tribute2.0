@@ -24,6 +24,7 @@ Explore the page to discover Sudha Murthy's early life, education, professional 
 
 The project is built using HTML and CSS to provide a simple and responsive tribute page. These technologies enable an accessible and visually appealing presentation of Sudha Murthy's life and accomplishments.
 
+
 ## Project Structure
 
 - `index.html`: Main HTML file containing the structure and content of the tribute page.
@@ -52,3 +53,11 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, sha
 Thank you for your interest and contributions!
 
 --------------------------------------------------------
+
+
+
+
+
+
+![sudha-murthy](https://github.com/voltagevalkyrie/tribute2.0/assets/149293731/3dc4b18d-e9f1-41e3-a3fd-3d74d62b944b)
+
